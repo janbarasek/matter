@@ -1,11 +1,10 @@
 <?php
-declare(strict_types=1); // must be first line
+
+declare(strict_types=1);
 
 namespace kdaviesnz\matter;
 
 
-class Matter implements IMatter
+final class Matter implements IMatter
 {
-
-
 }
